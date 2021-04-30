@@ -1,3 +1,3 @@
 # AndroidMemoryMap
 
-Перепутала и назвала приложение MemoryCalendar вместо MemoryMap
+Перепутала и назвала приложение MemoryCalendar вместо MemoryMap -.-
